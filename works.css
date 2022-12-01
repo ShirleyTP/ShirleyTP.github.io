@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+}
+
+section .butt {
+  z-index: 5;
+}
+section .bg {
+  background-color: black;
+  width: 100%;
+  height: 685px;
+  position: absolute;
+  z-index: -5;
+}
+section .grid {
+  width: 100%;
+  position: absolute;
+  z-index: -4;
+}
+section .white {
+  background-color: white;
+  position: absolute;
+  width: 10%;
+  height: 685px;
+  opacity: 35%;
+}
+section .butt {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+section .pics .row1 {
+  position: absolute;
+}
+section .pics .row1 .pic1 {
+  width: 220px;
+  padding-left: 300px;
+  padding-top: 110px;
+}
+section .pics .row1 .pic2 {
+  padding-top: 110px;
+  padding-left: 10px;
+  width: 220px;
+}
+section .pics .row2 {
+  padding-top: 345px;
+  position: absolute;
+}
+section .pics .row2 .pic3 {
+  width: 220px;
+  padding-left: 300px;
+}
+section .pics .row2 .pic4 {
+  padding-left: 10px;
+  width: 220px;
+}
+section .pics .row3 {
+  width: 270px;
+  padding-left: 768px;
+  padding-top: 110px;
+}
+section .pics .row3 .pic5 {
+  width: 270px;
+  position: absolute;
+}
+section .pics .row3 .pic6 {
+  padding-top: 312px;
+  width: 130px;
+}
+section .pics .row3 .pic7 {
+  width: 130px;
+  padding-left: 6px;
+}
+
+/*# sourceMappingURL=works.css.map */
