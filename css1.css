@@ -1,18 +1,18 @@
 @font-face {
   font-family: GrastedRosta;
-  src: url(../Lat_sass10/portfolio_font/GrastedRosta-z82Rw.otf);
+  src: url(portfolio_font/GrastedRosta-z82Rw.otf);
 }
 @font-face {
   font-family: pphatton;
-  src: url(../Lat_sass10/portfolio_font/PPHatton.otf);
+  src: url(portfolio_font/PPHatton.otf);
 }
 @font-face {
   font-family: akira;
-  src: url(../Lat_sass10/portfolio_font/Akira_Expanded_demo.otf);
+  src: url(portfolio_font/Akira_Expanded_demo.otf);
 }
 @font-face {
   font-family: caviar;
-  src: url(../Lat_sass10/portfolio_font/CaviarDreams.ttf);
+  src: url(portfolio_font/CaviarDreams.ttf);
 }
 body {
   margin: 0;
